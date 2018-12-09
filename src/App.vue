@@ -1,9 +1,17 @@
+
 <template>
+
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+
+    <img alt="Vue logo" width="100" heigth="100" src="./assets/logo.png"> 
+    <h1>Welcome</h1>    
+    <h4>to</h4>
+    <h2>Blog Posts</h2>
+    <router-view> </router-view>
   </div>
+
 </template>
+
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
