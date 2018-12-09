@@ -1,29 +1,11 @@
-# test
+# Vuejs-Example
 
-## Project setup
-```
-npm install
-```
+## Run the app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Use NodeJs version 8.x and run below commands
 
-### Compiles and minifies for production
 ```
-npm run build
+  npm install 
+  vue ui
+  Now open http://localhost:8000. Then we can play with application dashboard. From here we can do run, test build of the application.
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
