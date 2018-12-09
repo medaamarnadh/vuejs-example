@@ -28,7 +28,7 @@ export default {
       return this.posts = posts
     })
     .catch(err => {
-      console.log(err);
+      //console.log(err);
     })
     .finally(() => {
       this.loading = false;
